@@ -1,0 +1,425 @@
+﻿OBJECTID,Name,Text_ID,cable_id,length,ReadyForServiceDate,owners,url,Shape__Length
+1,Coral Sea Cable System (CSCS),coral-sea-cable-system-cscs,1934,"4,000 km",Q4 2019,Vocus Communications, ,5327712.86846049
+2,Interchange Cable Network 2 (ICN2),interchange-cable-network-2-icn2,1795,"1,632 km",Q4 2019,Interchange,http://www.interchange.vu,1711820.85687817
+3,GlobeNet Argentina-Brazil Cable,globenet-argentina-brazil-cable,1964,"2,500 km",H1 2020,GlobeNet,http://www.globenet.net,2519578.90076348
+4,England Cable,england-cable,1941,722 km,2020,NO-UK COM AS,https://no-uk.com,1209119.42336485
+5,St. Pierre and Miquelon Cable,st-pierre-and-miquelon-cable,1967,200 km,May 2018,French Authority of St. Pierre and Miquelon, ,172693.796400484
+6,sea2shore,sea2shore,1966,32 km,2016,National Grid, ,40606.0273796278
+7,Glo-2,glo-2,1965,850 km,2019,Globacom Limited,http://www.gloworld.com,892934.449700623
+8,NordBaltEurope,nordbalteurope,1963,400 km,2016,"Lietuvos Energija,  Svenska Kraftnät", ,706662.273867187
+9,NYNJ-1,nynj-1,1961,n.a.,Q4 2018,Cleareon Fiber Networks,http://www.cleareon.com,119507.662234963
+10,Southeast Asia - Japan 2 (SJC2),southeast-asia---japan-2-sjc2,1958,"10,500 km",Q4 2020,"China Mobile,  Chunghwa Telecom,  Facebook,  KDDI,  Chuan Wei,  SingTel,  SK Broadband,  VNPT-Vinaphone,  True Corporation", ,11130252.5673496
+11,TERRA-Aleutian,terra-aleutian,1942,"1,078 km",Q3 2020,GCI,http://www.alaskaunited.com,1802936.30596037
+12,Sakhalin-Kuril Islands Cable,sakhalin-kuril-islands-cable,1943,940 km,Q2 2019,Rostelecom, ,1094152.2886989
+13,Meltingpot Indianoceanic Submarine System (METISS),meltingpot-indianoceanic-submarine-system-metiss,1892,"3,500 km",2019,"Telma (Telecom Malagasy),  CEB Fibernet,  Emtel,  Canal+ Telecom,  SFR,  Zeop (incl. Reunicable)", ,3543404.02856648
+14,Java Bali Cable System (JBCS),java-bali-cable-system-jbcs,1955,40 km,2013,Triasmitra, ,29682.7765169792
+15,Jakarta Surabaya Cable System (JAYABAYA),jakarta-surabaya-cable-system-jayabaya,1956,888 km,Q4 2018,Triasmitra,http://www.triasmitra.com/,845442.825682121
+16,Southern Cross NEXT,southern-cross-next,1894,"13,700 km",Q4 2019,"Spark New Zealand,  SingTel Optus,  Verizon", ,16325998.4826892
+17,Havfrue/AEC-2,havfrueaec-2,1931,"7,200 km",Q4 2019,"Aqua Comms,  Facebook,  Bulk Infrastructure,  Google", ,11600246.4543946
+18,Dumai Medan Cable System (DMCS),dumai-medan-cable-system-dmcs,1957,575 km,Q1 2019,Triasmitra,http://www.triasmitra.com/,542886.307875718
+19,Japan-Guam-Australia South (JGA-S),japan-guam-australia-south-jga-s,1959,n.a.,Q4 2019,"RTI Connectivity,  Google,  Australia’s Academic and Research Network (AARNET)", ,6742633.73631216
+20,Japan-Guam-Australia North (JGA-N),japan-guam-australia-north-jga-n,1919,n.a.,Q4 2019,RTI Connectivity,http://www.rticable.com,2791061.21960435
+21,Tonga Domestic Cable Extension (TCDE),tonga-domestic-cable-extension-tcde,1951,410 km,January 2018,Tonga Cable Limited, ,402575.700153128
+22,Paniolo Cable Network,paniolo-cable-network,1948,576 km,2009,n.a., ,432965.268390516
+23,Bodo-Rost Cable,bodo-rost-cable,1950,109 km,2016,Telenor, ,277326.447255541
+24,Malta-Gozo Cable,malta-gozo-cable,1947,13 km,2019,Government of Malta,https://www.maltaenterprise.com,13888.7689780403
+25,Mauritius and Rodrigues Submarine Cable System (MARS),mauritius-and-rodrigues-submarine-cable-system-mars,1935,677 km,2019,Mauritius Telecom, ,703797.459525795
+26,Palapa Ring East,palapa-ring-east,1938,"6,300 km",2019,"Indonesian Government,  Moratelindo,  Telekom PT SmartFren", ,4125833.58020861
+27,Palapa Ring West,palapa-ring-west,1939,"1,980 km",February 2018,Indonesian Government, ,1128862.82684915
+28,Palapa Ring Middle,palapa-ring-middle,1940,"2,100 km",2018,Indonesian Government, ,1657934.37736118
+29,Ulysses 2,ulysses-2,1936,n.a.,1997,Verizon, ,325257.838111126
+30,NATITUA,natitua,1916,"2,400 km",Q4 2018,OPT French Polynesia, ,2845541.72077631
+31,Hong Kong-Americas (HKA),hong-kong-americas-hka,1933,"13,000 km",2020,"Facebook,  Telstra,  Tata Communications,  China Telecom,  China Unicom", ,15256951.4179616
+32,Curie,curie,1932,"10,000 km",2019,Google, ,10238731.1731502
+33,Venezuela Festoon,venezuela-festoon,1094,"1,200 km",1998,CANTV, ,1248700.02379202
+34,Silk Route Gateway (SRG-1),silk-route-gateway-srg-1,1849,"1,030 km",June 2020,"Multinet Pakistan,  Omantel",http://www.silkroutegateway-1.com,1063734.93539045
+35,Fibra Optica Austral,fibra-optica-austral,1922,"2,800 km",Q4 2019,Subtel,http://foa.subtel.cl/,3299310.30368555
+36,SABR,sabr,1929,n.a.,2019,Seaborn Group,http://www.seabornnetworks.com,6795918.75771443
+37,Djibouti Africa Regional Express (DARE),djibouti-africa-regional-express-dare,1863,"5,400 km",2019,"Djibouti Telecom,  Africa Marine Express,  Telesom,  Hormuud Telecom Somalia,  Golis Telecommunications,  Somtel International", ,4628312.21577835
+38,PEACE Cable,peace-cable,1923,"8,800 km",Q4 2019,Tropic Science Co., ,6613020.05521773
+39,JUPITER,jupiter,1928,"14,000 km",2020,"Amazon,  Facebook,  NTT,  PLDT,  PCCW,  Softbank Telecom", ,15756076.9059902
+40,WALL-LI,wall-li,1926,98 km,June 2019,Crosslake Fibre,http://www.crosslakefibre.ca,139412.835482179
+41,AURORA,aurora,1924,n.a.,Q1 2020,FP Telecommunications,http://fptelecoms.com/,10272693.3862997
+42,Crosslake Fibre,crosslake-fibre,1925,58 km,October 2018,Crosslake Fibre,http://www.crosslakefibre.ca,137913.389388977
+43,Eastern Light,eastern-light,1710,n.a.,2018,Eastern Light,https://www.easternlight.se,1099997.55880918
+44,GTMO-PR,gtmo-pr,1918,"1,200 km",2018,U.S. Government, ,1116561.15833601
+45,GTMO-1,gtmo-1,1917,"1,528 km",2016,U.S. Government, ,1345209.18744177
+46,North Sea Connect,north-sea-connect,1912,700 km,November 2019,Aqua Comms,http://www.aquacomms.com,1127218.9949816
+47,CeltixConnect-2,celtixconnect-2,1911,n.a.,November 2019,Aqua Comms,http://www.aquacomms.com,369033.614474945
+48,COBRAcable,cobracable,1904,326 km,2019,Relined,https://relined.eu/en/cobra-fiber-optic-cable/,511033.213401375
+49,Kanawa,kanawa,1914,"1,745 km",September 2018,Orange, ,1483467.50215487
+50,FLY-LION3,fly-lion3,1915,400 km,2018,"Orange,  Comoros Cables,  Société Réunionnaise du Radiotéléphone", ,288512.569702703
+51,Deep Blue Cable,deep-blue-cable,1913,"12,000 km",Q4 2020,Deep Blue Cable,http://www.deepbluecable.com,3097621.62524548
+52,Deep Blue Cable,deep-blue-cable,1913,"12,000 km",Q4 2020,Deep Blue Cable,http://www.deepbluecable.com,7018127.31839955
+53,Nelson-Levin,nelson-levin,1486,212 km,June 2001,Spark New Zealand,http://www.spark.co.nz,283764.158672207
+54,PNG LNG,png-lng,1898,20 km,2014,Telikom Papua New Guinea, ,404521.990504949
+55,PNG National Submarine Fibre Cable Network,png-national-submarine-fibre-cable-network,1899,"5,457 km",2018,PNG DataCo Limited, ,3489319.01843741
+56,PNG National Submarine Fibre Cable Network,png-national-submarine-fibre-cable-network,1899,"5,457 km",2018,PNG DataCo Limited, ,2254610.14423487
+57,Strategic Evolution Underwater Link (SEUL),strategic-evolution-underwater-link-seul,1893,24 km,July 2017,Belize Telemedia,http://www.belizetelemedia.net/,35230.9453329987
+58,Labuan-Brunei Submarine Cable,labuan-brunei-submarine-cable,1891,52 km,April 2017,Common Tower Technologies Sdn Bhd,http://www.cttsb.com.my,48405.6983820025
+59,MAREA,marea,1890,"6,605 km",February 2018,"Facebook,  Microsoft,  Telxius", ,8593207.4065446
+60,Brazilian Festoon,brazilian-festoon,1888,"2,543 km",1996,Embratel,http://www.embratel.com.br,2589664.2326919
+61,Nationwide Submarine Cable Ooredoo Maldives (NaSCOM),nationwide-submarine-cable-ooredoo-maldives-nascom,1868,"1,136 km",January 2017,Ooredoo Maldives,http://ooredoo.mv,830216.003229365
+62,"Saba, Statia Cable System (SSCS)",saba-statia-cable-system-sscs,1807,n.a.,2013,n.a.,http://www.sscsbv.com,155271.059833832
+63,East-West Submarine Cable System,east-west-submarine-cable-system,1886,950 km,2004,Sacofa,https://www.sacofa.com.my,892866.275966708
+64,SMPCS Packet-1,smpcs-packet-1,1884,"3,156 km",2015,Telkom Indonesia, ,3098575.51736334
+65,SMPCS Packet-2,smpcs-packet-2,1885,"3,498 km",2015,Telkom Indonesia, ,3668089.46066997
+66,Luwuk Tutuyan Cable System (LTCS),luwuk-tutuyan-cable-system-ltcs,1883,446 km,2015,Telkom Indonesia, ,344025.192192619
+67,Tarakan Selor Cable System (TSCS),tarakan-selor-cable-system-tscs,1882,83 km,2014,Telkom Indonesia, ,107339.658809242
+68,Sumatera Bangka Cable System (SBCS),sumatera-bangka-cable-system-sbcs,1881,57 km,2014,Telkom Indonesia, ,134992.781331996
+69,S-U-B Cable System,s-u-b-cable-system,1880,"2,009 km",2008,Telkom Indonesia, ,2082259.43530338
+70,INDIGO-West,indigo-west,1744,"4,600 km",Q1 2019,"Superloop,  Telstra,  SingTel,  Google,  Indosat Ooredoo,  Australia’s Academic and Research Network (AARNET)",http://www.subpartners.net/indigo,4658125.54883515
+71,Junior,junior,1876,390 km,2018,Google, ,403688.99007619
+72,Skagerrak 4,skagerrak-4,1875,137 km,December 2014,Statnett, ,404292.392828186
+73,Atisa,atisa,1874,279 km,June 2017,Docomo Pacific,http://atisa.docomopacific.com,363145.375674371
+74,Tui-Samoa,tui-samoa,1855,"1,693 km",February 2018,Samoa Submarine Cable Company,http://ssccsamoa.com/,1713708.68781865
+75,BUGIO,bugio,1443,73 km,July 1996,Portugal Telecom, ,77167.3596807876
+76,Quintillion Subsea Cable Network,quintillion-subsea-cable-network,1862,"1,900 km",December 2017,Quintillion,http://www.Qexpressnet.com,5589026.47434424
+77,ARSAT Submarine Fiber Optic Cable,arsat-submarine-fiber-optic-cable,1871,40 km,Q2 2012,ARSAT,http://www.arsat.com.ar/,53342.9862722282
+78,XL Bali Lombok Submarine Cable System,xl-bali-lombok-submarine-cable-system,1867,50 km,January 2016,XL Axiata, ,35274.5193245685
+79,Pencan-9,pencan-9,1866,"1,398 km",n.a.,Telefonica, ,1539760.37254907
+80,Taba-Aqaba,taba-aqaba,1806,n.a.,n.a.,n.a., ,13466.7917377164
+81,Tannat,tannat,1860,"2,000 km",2018,"Google,  Antel Uruguay", ,2064752.66941353
+82,South Atlantic Inter Link (SAIL),south-atlantic-inter-link-sail,1856,"5,900 km",September 2018,"Camtel,  China Unicom", ,5480581.02573995
+83,BRUSA,brusa,1873,"11,000 km",Q2 2018,Telxius,http://www.telxius.com,11616313.9186343
+84,EllaLink,ellalink,1725,"10,119 km",2020,"Telebras,  IslaLink",http://www.eulalink.com/,10860583.1140267
+85,Gulf2Africa (G2A),gulf2africa-g2a,1850,"1,500 km",December 2017,"Omantel,  Golis Telecommunications,  Telesom,  Ethio Telecom", ,1646553.01362027
+86,Nigeria Cameroon Submarine Cable System (NCSCS),nigeria-cameroon-submarine-cable-system-ncscs,1821,"1,100 km",December 2015,Camtel, ,980762.550683
+87,San Andres Isla Tolu Submarine Cable (SAIT),san-andres-isla-tolu-submarine-cable-sait,1843,826 km,December 2010,Energía Integral Andina, ,776073.71719926
+88,Lynn Canal Fiber,lynn-canal-fiber,1840,138 km,October 2016,Alaska Power & Telephone Company (AP&T),http://www.aptalaska.com,230519.270548448
+89,HIFN (Hawaii Island Fibre Network),hifn-hawaii-island-fibre-network,1456,529 km,June 1997,"Hawaiian Telcom,  CenturyLink", ,575366.216351728
+90,HICS (Hawaii Inter-Island Cable System),hics-hawaii-inter-island-cable-system,1455,479.081 km,July 1994,Hawaiian Telcom, ,453003.261290677
+91,Unisur,unisur,1132,265 km,March 1995,"Antel Uruguay,  Telxius", ,295152.014080414
+92,TRANSCAN-3,transcan-3,1449,210 km,2000,Telefonica, ,294695.912178344
+93,Northern Lights,northern-lights,1836,67 km,2008,BT, ,111559.565307716
+94,Swansea-Brean,swansea-brean,1835,97 km,1993,Vodafone, ,139499.768901136
+95,Jambi-Batam Cable System (JIBA),jambi-batam-cable-system-jiba,1832,420 km,2014,Moratelindo,http://www.moratelindo.co.id,328368.413871397
+96,Segunda FOS Canal de Chacao,segunda-fos-canal-de-chacao,1830,40 km,January 2015,Gtd Teleductos S.A.,http://www.telsur.cl/empresas/,47786.7127580641
+97,Sistem Kabel Rakyat 1Malaysia (SKR1M),sistem-kabel-rakyat-1malaysia-skr1m,1828,"3,800 km",September 2017,"Telekom Malaysia,  TIME dotCom",http://www.tm.com.my,3306125.78072327
+98,Aqualink,aqualink,1487,n.a.,December 2001,Telstra, ,1868564.46798559
+99,BT Highlands and Islands Submarine Cable System,bt-highlands-and-islands-submarine-cable-system,1827,402 km,December 2014,BT, ,184611.9413741
+100,BT Highlands and Islands Submarine Cable System,bt-highlands-and-islands-submarine-cable-system,1827,402 km,December 2014,BT, ,457346.604759644
+101,C-Lion1,c-lion1,1816,"1,172 km",March 2016,Cinia Group Oy,https://www.cinia.fi/en/,2098928.19929685
+102,Far East Submarine Cable System,far-east-submarine-cable-system,1825,"1,855 km",Q2 2016,Rostelecom, ,3050201.8243187
+103,Isles of Scilly Cable,isles-of-scilly-cable,1826,939 km,2014,BT, ,75828.3287729761
+104,New Cross Pacific (NCP) Cable System,new-cross-pacific-ncp-cable-system,1786,"13,618 km",May 2018,"China Telecom,  China Unicom,  Chunghwa Telecom,  KT,  China Mobile,  Microsoft,  Softbank Telecom", ,16549016.0934807
+105,Monet,monet,1787,"10,556 km",December 2017,"Angola Cables,  Google,  Algar Telecom,  Antel Uruguay", ,11479765.063293
+106,SEA-US,sea-us,1823,"14,500 km",August 2017,"RTI,  Inc.,  Globe Telecom,  Hawaiian Telcom,  GTA TeleGuam,  Telin", ,14725840.7669752
+107,FASTER,faster,1794,"11,629 km",June 2016,"Google,  KDDI,  SingTel,  China Telecom,  China Mobile,  Global Transit", ,14073095.199487
+108,Kerch Strait Cable,kerch-strait-cable,1822,46 km,April 2014,Rostelecom, ,34332.2650221403
+109,North West Cable System,north-west-cable-system,1817,"2,100 km",September 2016,Vocus Communications, ,1731620.40639442
+110,TERRA SW,terra-sw,1693,n.a.,2012,GCI,http://www.alaskaunited.com,952939.888445939
+111,Alaska United Turnagain Arm (AUTA),alaska-united-turnagain-arm-auta,1813,53 km,2012,GCI,http://www.alaskaunited.com,98049.9485265024
+112,ACS Alaska-Oregon Network (AKORN),acs-alaska-oregon-network-akorn,1571,"3,000 km",April 2009,Alaska Communications Systems Group,https://www.alaskacommunications.com,5033156.04973753
+113,Adria-1,adria-1,1317,440 km,September 1996,"T-Hrvatski Telekom,  Albania Telecom", ,585772.476737359
+114,Africa Coast to Europe (ACE),africa-coast-to-europe-ace,1629,"17,000 km",December 2012,"Orange,  Dolphin Telecom,  Cote d’Ivoire Telecom,  Gambia Submarine Cable Company,  MTN Group,  Orange Cameroun,  Sonatel,  Cable Consortium of Liberia,  STP Cabo,  International Mauritania Telecom,  Canalink,  Orange Mali,  Orange Niger,  Republic of",http://www.ace-submarinecable.com,2941129.9456856
+115,Africa Coast to Europe (ACE),africa-coast-to-europe-ace,1629,"17,000 km",December 2012,"Orange,  Dolphin Telecom,  Cote d’Ivoire Telecom,  Gambia Submarine Cable Company,  MTN Group,  Orange Cameroun,  Sonatel,  Cable Consortium of Liberia,  STP Cabo,  International Mauritania Telecom,  Canalink,  Orange Mali,  Orange Niger,  Republic of",http://www.ace-submarinecable.com,9688898.16565932
+116,Africa Coast to Europe (ACE),africa-coast-to-europe-ace,1629,"17,000 km",December 2012,"Orange,  Dolphin Telecom,  Cote d’Ivoire Telecom,  Gambia Submarine Cable Company,  MTN Group,  Orange Cameroun,  Sonatel,  Cable Consortium of Liberia,  STP Cabo,  International Mauritania Telecom,  Canalink,  Orange Mali,  Orange Niger,  Republic of",http://www.ace-submarinecable.com,5544056.58557347
+117,Alaska United East,alaska-united-east,1168,"3,751 km",February 1999,GCI,http://www.alaskaunited.com,5103685.67966169
+118,Alaska United West,alaska-united-west,1348,"2,485 km",June 2004,GCI,http://www.alaskaunited.com,3969831.60219883
+119,ALBA-1,alba-1,1529,"1,860 km",August 2012,"Transbit,  Telecom Venezuela", ,1755778.27829552
+120,Aletar,aletar,1319,787 km,April 1997,"Syrian Telecommunications Establishment,  Telecom Egypt,  Liban Telecom", ,839994.62795745
+121,Alonso de Ojeda,alonso-de-ojeda,1289,128 km,1999,n.a., ,124127.480979435
+122,ALPAL-2,alpal-2,1234,312 km,July 2002,"Telecom Italia Sparkle,  Orange,  Algerie Telecom,  Telxius", ,369784.618637953
+123,American Samoa-Hawaii (ASH),american-samoa-hawaii-ash,1600,"4,250 km",May 2009,"American Samoa Government,  Elandia", ,4301054.47845547
+124,Americas-I North,americas-i-north,1645,"2,012 km",September 1994,n.a., ,2474933.82494213
+125,Amerigo Vespucci,amerigo-vespucci,1494,85 km,1999,Antelecom, ,68921.0623553438
+126,Antillas 1,antillas-1,1227,650 km,June 1997,"AT&T,  Verizon,  Sprint,  Tata Communications,  Orange,  C&W Networks,  Telecom Italia Sparkle,  Embratel", ,587652.652601936
+127,SEA Cable Exchange-1 (SEAX-1),sea-cable-exchange-1-seax-1,1887,250 km,May 2018,Super Sea Cable Networks,http://www.seacablex.com,213146.973982538
+128,Aphrodite 2,aphrodite-2,1303,868 km,September 1994,n.a., ,975346.527373893
+129,Apollo,apollo,1213,"13,000 km",February 2003,Vodafone,http://www.vodafone.com/business/article-cs-apollo-submarine-cable-system,16048310.6219025
+130,ARCOS,arcos,1078,"8,600 km",December 2001,"C&W Networks,  CANTV,  Codetel,  Hondutel,  Belize Telemedia,  Enitel,  AT&T,  Alestra,  Verizon,  RACSA,  United Telecommunication Services (UTS),  Telecarrier,  Tricom USA,  Telecomunicaciones Ultramarinas de Puerto Rico,  Internexa,  Orbinet Overseas,",http://www.cwnetworks.com/,8196220.11322937
+131,Asia-America Gateway (AAG) Cable System,asia-america-gateway-aag-cable-system,1507,"20,000 km",November 2009,"Telekom Malaysia,  AT&T,  Starhub,  PLDT,  CAT Telecom Public Company Limited,  Airtel (Bharti),  Telstra,  Telkom Indonesia,  BT,  Eastern Telecom,  PT Indonesia Satellite Corp.,  Spark New Zealand,  Viettel Corporation,  Saigon Postel Corporation,  Vie",http://www.asia-america-gateway.com,20557672.875731
+132,Atlantic Crossing-1 (AC-1),atlantic-crossing-1-ac-1,1143,"14,301 km",May 1998,CenturyLink,http://www.centurylink.com/wholesale/,20139174.4293086
+133,Atlas Offshore,atlas-offshore,1512,"1,634 km",July 2007,Maroc Telecom,https://www.iam.ma,1937006.29129334
+134,Australia-Japan Cable (AJC),australia-japan-cable-ajc,1102,"12,700 km",December 2001,"Softbank Telecom,  Telstra,  Verizon,  AT&T",http://www.ajcable.com,12078277.9634607
+135,Australia-Papua New Guinea-2 (APNG-2),australia-papua-new-guinea-2-apng-2,1527,"1,800 km",2006,"Telikom Papua New Guinea,  Telstra",http://www.telikompng.com.pg,3380801.94805878
+136,Australia-Singapore Cable (ASC),australia-singapore-cable-asc,1683,"4,600 km",July 2018,Vocus Communications,https://www.australiasingaporecable.com,4511396.63077579
+137,Azores Fiber Optic System (AFOS),azores-fiber-optic-system-afos,1801,"1,100 km",July 1998,Portugal Telecom, ,1149170.76346791
+138,Bahamas 2,bahamas-2,1069,470 km,June 1997,"AT&T,  Telefonica,  Verizon", ,475165.563839457
+139,Bahamas Domestic Submarine Network (BDSNi),bahamas-domestic-submarine-network-bdsni,1510,"2,817 km",2006,"Bahamas Telecommunications Company,  Teleco",http://www.btcbahamas.com,1715746.89507599
+140,Bahamas Domestic Submarine Network (BDSNi),bahamas-domestic-submarine-network-bdsni,1510,"2,817 km",2006,"Bahamas Telecommunications Company,  Teleco",http://www.btcbahamas.com,1332257.32685674
+141,Bahamas Internet Cable System (BICS),bahamas-internet-cable-system-bics,1232,"1,100 km",July 2001,Caribbean Crossings,http://www.caribbeancrossings.com,1050506.92110514
+142,Balalink,balalink,1696,274 km,October 2001,IslaLink,http://www.islalink.es,342786.658722795
+143,Baltica,baltica,1199,437 km,March 1997,"Telia Carrier,  Orange Polska,  TDC,  Telenor,  Slovak Telekom,  Ukrtelecom", ,700352.324216903
+144,BARSAV,barsav,1053,760 km,1996,"Telefonica,  Telecom Italia Sparkle", ,896343.308350442
+145,Bass Strait-1,bass-strait-1,1472,241 km,1995,Telstra, ,314978.968349961
+146,Bass Strait-2,bass-strait-2,1492,239 km,2003,Telstra, ,311852.61089912
+147,Basslink,basslink,1742,298 km,November 2005,Basslink Telecoms, ,375894.819423013
+148,Batam Singapore Cable System (BSCS),batam-singapore-cable-system-bscs,1785,73 km,2009,Telkom Indonesia,http://www.telin.sg,21529.8707801261
+149,Sweden-Latvia,sweden-latvia,1364,391 km,January 2005,Latvia State Radio and Television Centre,http://www.lvrtc.lv,653428.845156681
+150,BCS East-West Interlink,bcs-east-west-interlink,1222,218 km,November 1997,Telia Carrier, ,385335.900927219
+151,BCS North - Phase 1,bcs-north---phase-1,1609,513 km,1998,Telia Carrier, ,1003538.02675585
+152,BCS North - Phase 2,bcs-north---phase-2,1610,280.4 km,2000,Telia Carrier, ,517207.949120693
+153,BERYTAR,berytar,1321,134 km,April 1997,"Syrian Telecommunications Establishment,  Lebanese Ministry of Telecommunications", ,225063.067864583
+154,Bharat Lanka Cable System,bharat-lanka-cable-system,1356,325 km,June 2006,"Bharat Sanchar Nigam Ltd. (BSNL),  Sri Lanka Telecom", ,325875.274397939
+155,Bicentenario,bicentenario,1633,250 km,December 2011,"Antel Uruguay,  Telecom Argentina", ,289096.689186222
+156,Botnia,botnia,1271,93 km,1994,Telia Carrier, ,265338.451301664
+157,BT-MT-1,bt-mt-1,1752,80 km,1990,"BT,  Manx Telecom", ,359281.248834789
+158,CADMOS,cadmos,1305,230 km,September 1995,"Cyta,  Lebanese Ministry of Telecommunications,  AT&T,  BT,  Orange,  Telekom Austria,  Syrian Telecommunications Establishment,  Telecom Italia Sparkle,  Tata Communications,  Deutsche Telekom", ,244025.94610781
+159,CAM Ring,cam-ring,1800,"1,120 km",2003,Portugal Telecom, ,1752440.23718536
+160,Canalink,canalink,1666,"1,835 km",2011,IT3,http://canalink.iter.es/,2530752.73446202
+161,CANTAT-3,cantat-3,1737,"2,500 km",November 1994,Faroese Telecom,http://www.ft.fo,4612073.40804947
+162,Caribbean-Bermuda U.S. (CBUS),caribbean-bermuda-u-s-cbus,1634,"1,600 km",October 2009,C&W Networks,http://www.cwnetworks.com/,1720851.78729239
+163,Caucasus Cable System,caucasus-cable-system,1563,"1,200 km",November 2008,Caucasus Online,http://www.co.ge/en/,1515077.34993977
+164,Cayman-Jamaica Fiber System,cayman-jamaica-fiber-system,1068,870 km,June 1997,C&W Networks,http://www.cwnetworks.com/,640396.191600806
+165,Ceiba-2,ceiba-2,1842,290 km,2017,"Ministerio de Transportes,  Tecnologia,  Correos y Telecomunicaciones", ,339298.609220012
+166,Ceiba-1,ceiba-1,1699,287 km,June 2011,"Ministerio de Transportes,  Tecnologia,  Correos y Telecomunicaciones", ,279153.971401971
+167,CeltixConnect,celtixconnect,1641,136 km,January 2012,Aqua Comms,http://www.aquacomms.com,180667.021731523
+168,Challenger Bermuda-1 (CB-1),challenger-bermuda-1-cb-1,1596,"1,448 km",December 2008,Cable Co.,http://cableco.bm,1694972.06480208
+169,Columbus-II b,columbus-ii-b,1643,"2,068 km",December 1994,n.a., ,2366847.13301018
+170,Columbus-III,columbus-iii,1046,"9,833 km",December 1999,"Telecom Italia Sparkle,  AT&T,  Verizon,  Telxius,  Portugal Telecom,  Tata Communications,  Ukrtelecom,  Telkom South Africa,  Telecom Argentina,  Instituto Costarricense de Electricidad,  Embratel,  Cyta", ,11490542.0954299
+171,Comoros Domestic Cable System,comoros-domestic-cable-system,1803,n.a.,2010,Comores Telecom, ,258391.622904273
+172,Corse-Continent 4 (CC4),corse-continent-4-cc4,1427,190 km,1992,Orange, ,257575.037216545
+173,Corse-Continent 5 (CC5),corse-continent-5-cc5,1428,299 km,1995,Orange, ,385770.224831091
+174,Danica North,danica-north,1541,25 km,1998,Telia Carrier, ,46687.3399853159
+175,DANICE,danice,1568,"2,304 km",August 2009,Icelandic Shareholders,http://www.farice.is,4422903.98935741
+176,Denmark-Norway 5,denmark-norway-5,1326,130 km,1992,"TDC,  Telenor", ,251488.863265742
+177,Denmark-Norway 6,denmark-norway-6,1327,120 km,1992,"TDC,  Telenor", ,268465.173624078
+178,Denmark-Poland 2,denmark-poland-2,1262,110 km,1991,"Orange Polska,  TDC,  Telia Carrier,  Telenor", ,200302.2334777
+179,Denmark-Sweden 15,denmark-sweden-15,1259,5 km,1989,"TDC,  Telia Carrier", ,11833.987556279
+180,Denmark-Sweden 16,denmark-sweden-16,1261,15 km,1991,TDC, ,84420.2782473835
+181,Denmark-Sweden 17,denmark-sweden-17,1730,11 km,1994,"TDC,  Tele2", ,13263.8869825357
+182,Denmark-Sweden 18,denmark-sweden-18,1731,n.a.,1996,"Telenor,  TDC", ,11833.987556279
+183,Dhiraagu Cable Network,dhiraagu-cable-network,1746,"1,253 km",April 2012,Dhiraagu,http://www.dhiraagu.com.mv,880730.347758458
+184,Dhiraagu-SLT Submarine Cable Network,dhiraagu-slt-submarine-cable-network,1369,850 km,February 2007,"Sri Lanka Telecom,  Dhiraagu",http://www.dhiraagu.com.mv,777056.879137287
+185,East-West,east-west,1671,"1,750 km",February 2011,C&W Networks,http://www.cwnetworks.com/,1549281.52778465
+186,Eastern Caribbean Fiber System (ECFS),eastern-caribbean-fiber-system-ecfs,1290,"1,730 km",September 1995,"Orange,  AT&T,  BT,  Verizon,  Sprint,  Guyana Telephone and Telegraph (GT&T),  Codetel,  C&W Networks", ,1614408.9788195
+187,ECLink,eclink,1532,987 km,October 2007,C&W Networks,http://www.cwnetworks.com/,866094.059080693
+188,Elektra-GlobalConnect 1 (GC1),elektra-globalconnect-1-gc1,1759,44 km,August 2000,GlobalConnect,http://www.globalconnect.dk,101151.398149732
+189,Emerald Bridge Fibres,emerald-bridge-fibres,1684,120 km,December 2012,"Zayo Group,  ESB Telecoms",http://www.emeraldbridgefibres.com,201680.793483642
+190,AEC-1,aec-1,1691,"5,536 km",January 2016,Aqua Comms,http://www.aquacomms.com,7704004.63842936
+191,ESAT-2,esat-2,1224,245 km,2000,Esat BT,http://www.esat.net,366289.088600065
+192,Estepona-Tetouan,estepona-tetouan,1251,113 km,July 1994,"Telxius,  Maroc Telecom", ,127224.017371253
+193,FARICE-1,farice-1,1240,"1,205 km",January 2004,Icelandic Shareholders,http://www.farice.is,2685316.24856333
+194,Fehmarn Bält,fehmarn-blt,1336,20 km,2000,Telia Carrier, ,35938.0787674612
+195,Fiber Optic Gulf (FOG),fiber-optic-gulf-fog,1209,"1,300 km",June 1998,"Kuwait Ministry of Communications,  Etisalat,  Ooredoo,  Batelco", ,1347110.64829484
+196,Fibralink,fibralink,1361,"1,000 km",March 2006,C&W Networks,http://www.cwnetworks.com/,1098036.72164517
+197,Finland-Estonia 2 (EESF-2),finland-estonia-2-eesf-2,1263,98 km,1992,"Elion,  Telia Carrier", ,184623.628596301
+198,FLAG Atlantic-1 (FA-1),flag-atlantic-1-fa-1,1028,"14,500 km",June 2001,Global Cloud Xchange,http://www.globalcloudxchange.com,16163050.1316902
+199,FLAG North Asia Loop/REACH North Asia Loop,flag-north-asia-loopreach-north-asia-loop,1150,"9,504 km",June 2001,"Global Cloud Xchange,  PCCW,  Telstra", ,9507824.77408421
+200,Flores-Corvo Cable System,flores-corvo-cable-system,1782,685 km,January 2014,Viatel,http://www.viatel.pt,739460.658019133
+201,Gemini Bermuda,gemini-bermuda,1551,"1,287 km",October 2007,C&W Networks,http://www.cwnetworks.com,1735137.56916698
+202,Geo-Eirgrid,geo-eirgrid,1685,187 km,December 2012,Eirgrid,http://www.geo-uk.net,385892.258037478
+203,Georgia-Russia,georgia-russia,1192,433 km,December 2000,"Rostelecom,  FOPTNET,  DanTelco",http://www.georgia-russia.com,631307.379137709
+204,Germany-Denmark 2,germany-denmark-2,1200,60 km,December 1995,TDC, ,89337.1266457327
+205,Germany-Denmark 3,germany-denmark-3,1764,n.a.,March 2000,TDC, ,80605.8543893517
+206,Glo-1,glo-1,1357,"9,800 km",October 2010,Globacom Limited,http://www.gloworld.com,9469290.83845951
+207,Southern Caribbean Fiber,southern-caribbean-fiber,1619,n.a.,September 2006,Digicel,http://southern-caribbean.com,2080479.48262307
+208,Southern Caribbean Fiber,southern-caribbean-fiber,1619,n.a.,September 2006,Digicel,http://southern-caribbean.com,643957.931733076
+209,GlobalConnect 2 (GC2),globalconnect-2-gc2,1760,95 km,August 2001,GlobalConnect,http://www.globalconnect.dk,183252.19666862
+210,GlobalConnect 3 (GC3),globalconnect-3-gc3,1761,19 km,2006,GlobalConnect,http://www.globalconnect.dk,38941.4349872382
+211,GlobalConnect-KPN,globalconnect-kpn,1762,43 km,2006,GlobalConnect,http://www.globalconnect.dk,113646.303861575
+212,GlobeNet,globenet,1076,"23,500 km",October 2000,BTG Pactual,http://www.globenet.net,22662453.5507493
+213,GlobeNet,globenet,1076,"23,500 km",October 2000,BTG Pactual,http://www.globenet.net,948365.22977748
+214,GO-1 Mediterranean Cable System,go-1-mediterranean-cable-system,1581,290 km,December 2008,GO plc,https://www.go.com.mt/business,323832.684952192
+215,Gondwana-1,gondwana-1,1514,"2,151 km",September 2008,OPT,http://telecom.opt.nc,2260538.21093166
+216,OTEGLOBE Kokkini-Bari,oteglobe-kokkini-bari,1383,700 km,June 2004,OTEGLOBE,http://www.oteglobe.gr,868579.936380589
+217,Greenland Connect North,greenland-connect-north,1897,680 km,December 2017,TELE Greenland,http://www.tele.gl,1577898.69311655
+218,Greenland Connect,greenland-connect,1569,"4,780 km",March 2009,TELE Greenland,http://www.tele.gl,8458880.63986429
+219,Guam Okinawa Kyushu Incheon (GOKI),guam-okinawa-kyushu-incheon-goki,1692,"4,244 km",December 2013,AT&T,http://www.att.com,3775627.70572196
+220,Guernsey-Jersey-4,guernsey-jersey-4,1702,36 km,Janaury 1994,Sure, ,49731.9655120289
+221,Gulf Bridge International Cable System (GBICS)/Middle East North Africa (MENA) Cable System,gulf-bridge-international-cable-system-gbicsmiddle-east-north-africa-mena-cable-system,1598,n.a.,February 2012,"Gulf Bridge International,  Airtel (Bharti)",http://www.gbiinc.com,5381113.78908613
+222,HANTRU1 Cable System,hantru1-cable-system,1605,"2,917 km",March 2010,"Hannon Armstrong,  Federated States of Micronesia Telecommunications Company,  Marshall Islands Telecommunications Authority", ,3343417.60768751
+223,Hawaiki,hawaiki,1733,"14,000 km",June 2018,Hawaiki Cable Company,http://hawaikicable.co.nz,16086222.506137
+224,Hawk,hawk,1523,"3,400 km",2011,Global Cloud Xchange,http://www.globalcloudxchange.com,4138320.78968469
+225,GTT Atlantic,gtt-atlantic,1080,"12,200 km",April 2001,GTT,http://www.gtt.net,15607939.3195813
+226,GTT Express,gtt-express,1673,"4,600 km",September 2015,GTT,http://www.gtt.net,7110179.30437108
+227,High-capacity Undersea Guernsey Optical-fibre (HUGO),high-capacity-undersea-guernsey-optical-fibre-hugo,1697,425 km,2007,"Sure,  Vodafone", ,537082.26003891
+228,Hokkaido-Sakhalin Cable System (HSCS),hokkaido-sakhalin-cable-system-hscs,1528,570 km,July 2008,"NTT,  TTK", ,569011.79429254
+229,Honotua,honotua,1556,"4,805 km",September 2010,OPT French Polynesia,http://www.opt.pf,4669086.18815436
+230,i2i Cable Network (i2icn),i2i-cable-network-i2icn,1179,"3,200 km",April 2002,Airtel (Bharti),http://www.airtel.in,2996082.99016016
+231,INGRID,ingrid,1700,64 km,October 2004,CIEG, ,92865.4371445563
+232,Interchange Cable Network 1 (ICN1),interchange-cable-network-1-icn1,1682,"1,259 km",January 2014,Interchange,http://www.interchange.vu,1162154.02290627
+233,IP-Only Denmark-Sweden,ip-only-denmark-sweden,1765,n.a.,1994,IP-Only, ,68717.7537060465
+234,Italy-Albania,italy-albania,1296,240 km,1997,"Telecom Italia Sparkle,  Albania Telecom", ,290255.638053287
+235,Italy-Croatia,italy-croatia,1286,230 km,1994,"Telecom Italia Sparkle,  T-Hrvatski Telekom", ,162401.019735384
+236,Italy-Greece 1,italy-greece-1,1299,169 km,1995,WIS Telecom,http://www.wis.one,178015.1070103
+237,Italy-Libya,italy-libya,1287,570 km,1998,"Telecom Italia Sparkle,  Libya International Telecommunications Company", ,655728.390294577
+238,Italy-Monaco,italy-monaco,1302,162 km,1995,"Telecom Italia Sparkle,  Monaco Telecom", ,172828.223191595
+239,JaKa2LaDeMa,jaka2ladema,1767,"1,700 km",2010,Telkom Indonesia, ,1592623.59855695
+240,JAKABARE,jakabare,1597,"1,330 km",November 2009,PT Indonesia Satellite Corp.,http://www.indosat.com,1376030.85875204
+241,Janna,janna,1729,634 km,April 2005,"Regione Sardegne,  Interoute,  Wind Italy,  Tiscali", ,772772.099956488
+242,Japan-U.S. Cable Network (JUS),japan-u-s-cable-network-jus,1010,"22,682 km",September 2001,"Verizon,  AT&T,  BT,  Sprint,  CenturyLink,  KDDI,  NTT,  Chunghwa Telecom,  Tata Communications,  SingTel,  Telekom Malaysia,  Softbank Telecom,  Orange,  SK Broadband,  KT,  China Telecom,  China Unicom,  LG Uplus,  HKBN Enterprise Solutions,  Starhub,", ,24614369.2522751
+243,Jerry Newton,jerry-newton,1774,n.a.,October 2007,C&W Networks, ,68266.0969465731
+244,Jonah,jonah,1677,"2,297 km",January 2012,Bezeq International Ltd.,http://www.bezeqint.net/english,2531227.83063351
+245,Kattegat 1,kattegat-1,1218,180 km,August 1995,"TDC,  Telia Carrier,  Tata Communications,  BT", ,177371.580622964
+246,Kattegat 2,kattegat-2,1688,75 km,2001,TDC, ,261587.053446415
+247,Kodiak Kenai Fiber Link (KKFL),kodiak-kenai-fiber-link-kkfl,1530,966 km,January 2007,GCI,http://www.alaskaunited.com,1941823.74446405
+248,Korea-Japan Cable Network (KJCN),korea-japan-cable-network-kjcn,1231,500 km,March 2002,"QTNet,  KT,  Softbank Telecom,  NTT", ,559747.794322095
+249,Kuwait-Iran,kuwait-iran,1250,380 km,June 2005,"Telecommunication Infrastructure Company of Iran,  Kuwait Ministry of Communications", ,369428.271182986
+250,Lanis-1,lanis-1,1616,113 km,1992,Vodafone, ,182267.916738245
+251,Lanis-2,lanis-2,1751,67 km,1992,Vodafone, ,109758.975135558
+252,Latvia-Sweden 1 (LV-SE 1),latvia-sweden-1-lv-se-1,1270,304 km,1994,"Telia Carrier,  Tele2,  Lattelecom,  Telecom Italia Sparkle", ,531911.552208651
+253,Lev Submarine System,lev-submarine-system,1065,"2,600 km",March 1999,Telecom Italia Sparkle,http://mediterranean.tisparkle.com,3004307.33592851
+254,LFON (Libyan Fiber Optic Network),lfon-libyan-fiber-optic-network,1184,"1,639 km",1999,"Libyan Post,  Telecommunications and Information Technology Company (LPTIC Holding)", ,1928263.27557369
+255,Libreville-Port Gentil Cable,libreville-port-gentil-cable,1747,198 km,April 2012,Republic of Gabon, ,165600.371138819
+256,Lower Indian Ocean Network (LION),lower-indian-ocean-network-lion,1594,"1,060 km",November 2009,"Orange,  Mauritius Telecom,  Orange Madagascar",http://www.orange.com/,1035687.56842078
+257,Lower Indian Ocean Network 2 (LION2),lower-indian-ocean-network-2-lion2,1667,"2,700 km",April 2012,"Orange,  Mauritius Telecom,  Orange Madagascar,  Telkom Kenya,  Société Réunionnaise du Radiotéléphone,  Emtel,  STOI", ,2662911.92086288
+258,MainOne,mainone,1565,"7,000 km",July 2010,Main One Cable Company,http://www.mainonecable.com,7669225.2569247
+259,Malaysia-Cambodia-Thailand (MCT) Cable,malaysia-cambodia-thailand-mct-cable,1776,"1,300 km",March 2017,"Telekom Malaysia,  Ezecom,  Symphony,  DTAC", ,1355338.67421573
+260,Mariana-Guam Cable,mariana-guam-cable,1757,n.a.,1997,IT&E, ,215014.253848415
+261,Mataram Kupang Cable System (MKCS),mataram-kupang-cable-system-mkcs,1780,"1,318 km",April 2011,Telkom Indonesia, ,1131476.52825711
+262,Matrix Cable System,matrix-cable-system,1535,"1,055 km",August 2008,Matrix Networks Pte. Ltd.,http://www.matrixnetworks.sg,1202297.34292045
+263,Maya-1,maya-1,1071,"4,400 km",October 2000,"Verizon,  AT&T,  Sprint,  Hondutel,  Telefonica,  Orbitel,  Telecom Italia Sparkle,  C&W Networks,  Embratel,  ETB,  Axtel,  Instituto Costarricense de Electricidad,  BICS,  Prepa Networks,  Orange,  Tricom,  RSL Telecom,  América Móvil", ,4504797.44852272
+264,Med Cable Network,med-cable-network,1366,"1,300 km",October 2005,Orascom Telecom Holding, ,1974267.04031991
+265,Melita 1,melita-1,1602,97 km,June 2009,Melita,http://www.melita.com,121524.287053336
+266,Mid-Atlantic Crossing (MAC),mid-atlantic-crossing-mac,1070,"7,500 km",June 2000,CenturyLink,http://www.centurylink.com/wholesale/,7761794.77119585
+267,Moratelindo International Cable System-1 (MIC-1),moratelindo-international-cable-system-1-mic-1,1561,70 km,January 2008,Moratelindo,http://www.moratelindo.co.id,28492.3405384486
+268,Tampnet Offshore FOC Network,tampnet-offshore-foc-network,1203,"1,751 km",July 1999,Tampnet,http://www.tampnet.com/,3224737.13664105
+269,NorthStar,northstar,1166,"3,229 km",October 1999,Alaska Communications Systems Group,https://www.alaskacommunications.com,5288416.72757631
+270,Oran-Valencia (ORVAL),oran-valencia-orval,1664,"1,160 km",2018,Algerie Telecom,https://www.algerietelecom.dz/siteweb.php,948546.366104965
+271,Pacific Caribbean Cable System (PCCS),pacific-caribbean-cable-system-pccs,1727,"6,000 km",September 2015,"C&W Networks,  Telconet,  Setar,  United Telecommunication Services (UTS),  Telxius", ,6658190.43814991
+272,Pacific Crossing-1 (PC-1),pacific-crossing-1-pc-1,1007,"20,900 km",December 1999,NTT,http://www.pc1.com,27123280.9311891
+273,Palawa-Iloilo Cable System,palawa-iloilo-cable-system,1796,300 km,January 2014,PLDT, ,282203.427951581
+274,Pan American (PAN-AM),pan-american-pan-am,1073,"7,225 km",February 1999,"AT&T,  Telefonica del Peru,  Softbank Telecom,  Telecom Italia Sparkle,  Sprint,  CANTV,  Tata Communications,  Telefónica de Argentina,  Telstra,  Verizon,  Entel Chile,  Telecom Argentina,  Telconet,  Instituto Costarricense de Electricidad,  C&W Netw", ,7166256.09947193
+275,Pan-American Crossing (PAC),pan-american-crossing-pac,1072,"10,000 km",March 2000,CenturyLink,http://www.centurylink.com/wholesale/,7105243.10300932
+276,PENBAL-5,penbal-5,1187,309 km,1994,Telefonica, ,408069.102064349
+277,Pencan-8,pencan-8,1701,"1,400 km",2011,Telefonica, ,1627831.65705901
+278,Persona,persona,1577,800 km,2008,EastLink, ,562830.818856777
+279,Picot-1,picot-1,1802,n.a.,2008,OPT,http://telecom.opt.nc,261549.906222891
+280,PIPE Pacific Cable-1 (PPC-1),pipe-pacific-cable-1-ppc-1,1520,"6,900 km",October 2009,TPG,http://www.pipenetworks.com/ppc1.php,6397329.78274565
+281,POSEIDON,poseidon,1740,800 km,April 2014,Radius Oceanic Communications,http://www.radiusocean.com,166281.640176862
+282,Qatar-U.A.E. Submarine Cable System,qatar-u-a-e-submarine-cable-system,1254,100 km,December 2004,"Etisalat,  Ooredoo", ,384598.837483601
+283,FOS Quellon-Chacabuco,fos-quellon-chacabuco,1805,350 km,January 2015,Gtd Teleductos S.A.,http://www.telsur.com,445952.085720057
+284,Russia-Japan Cable Network (RJCN),russia-japan-cable-network-rjcn,1518,"1,800 km",September 2008,"Rostelecom,  KDDI", ,2048113.39989145
+285,IOX Cable System,iox-cable-system,1901,"8,850 km",Q4 2019,IOX Cable Limited,http://www.iox.mu,8997751.24558164
+286,SAFE,safe,1220,"13,500 km",April 2002,"Orange,  Telekom Malaysia,  Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon,  NATCOM (Nigeria),  OPT,  Telefonica,  BICS,  China Telecom,  Chunghwa Telecom,", ,13611216.30284
+287,Saint Maarten Puerto Rico Network One (SMPR-1),saint-maarten-puerto-rico-network-one-smpr-1,1245,375 km,December 2004,"TelEm Group,  Dauphin Telecom", ,372973.787598205
+288,Samoa-American Samoa (SAS),samoa-american-samoa-sas,1620,250 km,May 2009,"American Samoa Government,  Elandia", ,129610.821914412
+289,SAT-3/WASC,sat-3wasc,1219,"14,350 km",April 2002,"Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon,  NATCOM (Nigeria),  OPT,  BICS,  Sprint,  SingTel,  KPN,  Orange,  Telecom Italia Sparkle,  Telecom Namibia,", ,8320778.16529873
+290,SAT-3/WASC,sat-3wasc,1219,"14,350 km",April 2002,"Telkom South Africa,  Tata Communications,  AT&T,  BT,  Camtel,  Angola Telecom,  Ghana Telecommunications Company,  Mauritius Telecom,  Verizon,  NATCOM (Nigeria),  OPT,  BICS,  Sprint,  SingTel,  KPN,  Orange,  Telecom Italia Sparkle,  Telecom Namibia,", ,6999629.80776134
+291,Scandinavian Ring North,scandinavian-ring-north,1544,5 km,2000,Telia Carrier, ,32756.7907329067
+292,Scandinavian Ring South,scandinavian-ring-south,1545,21 km,2000,Telia Carrier, ,59272.2817171193
+293,Scotland-Northern Ireland 1,scotland-northern-ireland-1,1387,35 km,1989,BT, ,65590.6458028371
+294,Seabras-1,seabras-1,1728,"10,800 km",September 2017,Seaborn Group,http://www.seabornnetworks.com,11440853.8052684
+295,Seychelles to East Africa System (SEAS),seychelles-to-east-africa-system-seas,1672,"1,930 km",August 2012,Seychelles Cable System Ltd., ,1821557.6643935
+296,SHEFA-2,shefa-2,1576,"1,000 km",March 2008,Faroese Telecom,http://www.shefa.fo,1614204.21548447
+297,Silphium,silphium,1665,425 km,January 2013,Libya International Telecommunications Company,http://www.litc.ly,471654.241246207
+298,Sirius South,sirius-south,1092,219 km,1999,Virgin Media Business, ,367639.024415038
+299,Sirius North,sirius-north,1754,147 km,1999,Virgin Media Business, ,226584.103430118
+300,South America Pacific Link (SAPL),south-america-pacific-link-sapl,1791,"17,600 km",Q3 2020,Ocean Networks,http://www.oceannetworks.com,18321832.1381237
+301,South America-1 (SAm-1),south-america-1-sam-1,1083,"25,000 km",March 2001,Telxius,http://www.telxius.com/,24144060.6783363
+302,South America-1 (SAm-1),south-america-1-sam-1,1083,"25,000 km",March 2001,Telxius,http://www.telxius.com/,109810.342558367
+303,South American Crossing (SAC)/Latin American Nautilus (LAN),south-american-crossing-saclatin-american-nautilus-lan,1084,"20,000 km",September 2000,"Telecom Italia Sparkle,  CenturyLink",http://www.centurylink.com/wholesale/,19373956.6606002
+304,South Atlantic Cable System (SACS),south-atlantic-cable-system-sacs,1709,"6,165 km",Q3 2018,Angola Cables,http://www.angolacables.co.ao,5872360.62653293
+305,Southern Cross Cable Network (SCCN),southern-cross-cable-network-sccn,1009,"30,500 km",November 2000,"Spark New Zealand,  SingTel Optus,  Verizon",http://www.southerncrosscables.com,29679785.6375997
+306,St. Thomas-St. Croix System,st-thomas-st-croix-system,1756,183 km,July 2013,"Virgin Islands Next Generation Networks,  Inc.",http://www.vingn.com,205692.012300644
+307,Subcan Link 1,subcan-link-1,1777,143 km,May 2002,Cable Submarine de Canarias, ,198646.686452167
+308,Subcan Link 2,subcan-link-2,1778,136 km,May 2002,Cable Submarine de Canarias, ,235504.797136577
+309,Suriname-Guyana Submarine Cable System (SG-SCS),suriname-guyana-submarine-cable-system-sg-scs,1612,"1,249 km",July 2010,"Guyana Telephone and Telegraph (GT&T),  Telesur", ,1072912.82586791
+310,Svalbard Undersea Cable System,svalbard-undersea-cable-system,1651,"2,714 km",January 2004,Telenor, ,8327168.95906257
+311,Sweden-Estonia (EE-S 1),sweden-estonia-ee-s-1,1221,240 km,June 1995,"Telia Carrier,  Elion,  GN Great Nordic", ,727766.215804226
+312,Sweden-Finland 4 (SFS-4),sweden-finland-4-sfs-4,1207,254 km,December 1993,"Telia Carrier,  Elisa Corporation",http://www.telia.se,478192.678013483
+313,Sweden-Finland 6,sweden-finland-6,1340,175 km,January 1998,Telia Carrier, ,554682.223464953
+314,Sweden-Finland Link (SFL),sweden-finland-link-sfl,1208,142 km,1994,"Telia Carrier,  Elisa Corporation", ,131917.979902436
+315,Taino-Carib,taino-carib,1229,186 km,December 1992,"AT&T,  Embratel,  Orange,  C&W Networks,  Telecom Italia Sparkle", ,128464.492905463
+316,Taiwan Strait Express-1 (TSE-1),taiwan-strait-express-1-tse-1,1636,260 km,January 2013,"China Unicom,  Far Eastone Telecommunications,  Taiwan Mobile,  China Telecom,  Chunghwa Telecom,  China Mobile", ,265397.873418833
+317,Tamares North,tamares-north,1713,345 km,January 2012,Tamares UK Group,http://www.tamarestelecom.com,399457.557539666
+318,Tangerine,tangerine,1324,112 km,September 2000,CenturyLink, ,169414.18280407
+319,Tasman Global Access (TGA) Cable,tasman-global-access-tga-cable,1750,"2,288 km",March 2017,"Spark New Zealand,  Vodafone,  Telstra", ,2724402.51404789
+320,TAT-14,tat-14,1043,"15,295 km",April 2001,"BT,  Verizon,  Deutsche Telekom,  Orange,  Sprint,  Telia Carrier,  KPN,  Telenor,  Etisalat,  OTEGLOBE,  SingTel,  KDDI,  Softbank Telecom,  Zayo Group,  Portugal Telecom,  Slovak Telekom,  TDC,  Telus,  Tata Communications,  Telefonica,  AT&T,  BICS,", ,20882661.3367339
+321,Tata TGN-Atlantic,tata-tgn-atlantic,1149,"13,000 km",June 2001,Tata Communications,http://www.tatacommunications.com,16327642.7449973
+322,Tata TGN-Gulf,tata-tgn-gulf,1631,"4,031 km",February 2012,Tata Communications,http://www.tatacommunications.com,2781752.43970948
+323,Tata TGN-Pacific,tata-tgn-pacific,1155,"22,300 km",December 2002,Tata Communications,http://www.tatacommunications.com,28418025.225965
+324,Tata TGN-Tata Indicom,tata-tgn-tata-indicom,1252,"3,175 km",November 2004,Tata Communications,http://www.tatacommunications.com,3069636.75078735
+325,Tata TGN-Western Europe,tata-tgn-western-europe,1173,"3,578 km",June 2002,Tata Communications,http://www.tatacommunications.com,5080198.6127038
+326,TE North/TGN-Eurasia/SEACOM/Alexandros,te-northtgn-eurasiaseacomalexandros,1573,"3,634 km",July 2011,"Telecom Egypt,  Cyta,  SEACOM,  Tata Communications",http://www.telecomegypt.com.eg,4389730.18803344
+327,Telstra Endeavour,telstra-endeavour,1526,"9,125 km",September 2008,Telstra,https://www.telstraglobal.com,8783015.78275643
+328,Thailand-Indonesia-Singapore (TIS),thailand-indonesia-singapore-tis,1238,968 km,December 2003,"SingTel,  CAT Telecom Public Company Limited,  Telkom Indonesia", ,1038490.19510762
+329,The East African Marine System (TEAMS),the-east-african-marine-system-teams,1516,"4,900 km",October 2009,"Etisalat,  TEAMS Ltd.", ,5126767.2350835
+330,Tobrok-Emasaed Cable System,tobrok-emasaed-cable-system,1779,178 km,October 2010,Libya International Telecommunications Company, ,162905.956161159
+331,Tonga Cable,tonga-cable,1687,827 km,August 2013,"Tonga Communications Corporation,  Government of Tonga,  Digicel Tonga",http://www.tongacable.net,801160.120191306
+332,Trans-Pacific Express (TPE) Cable System,trans-pacific-express-tpe-cable-system,1513,"17,000 km",August 2008,"China Telecom,  China Unicom,  Chunghwa Telecom,  KT,  Verizon,  NTT,  AT&T",http://tpecable.org,19755373.1325996
+333,Transworld (TW1),transworld-tw1,1351,"1,300 km",June 2006,TransWorld Associates (Pvt.) Limited,http://www.tw1.com,1441129.50885112
+334,Trapani-Kelibia,trapani-kelibia,1555,209 km,November 1995,"Tunisia Telecom,  Telecom Italia Sparkle", ,234185.62689233
+335,TT-1,tt-1,1799,48 km,August 2012,"C&W Networks,  TSTT,  Alliance Telecommunications", ,39813.038671995
+336,Turcyos-1,turcyos-1,1341,110 km,1993,Turk Telekom, ,261389.359651625
+337,Turcyos-2,turcyos-2,1705,213 km,March 2011,Turk Telekom,http://www.turktelekom.com.tr,260618.996729767
+338,UAE-Iran,uae-iran,1308,170 km,1992,"Etisalat,  Telecommunication Infrastructure Company of Iran", ,204815.156202859
+339,UGARIT,ugarit,1306,239 km,February 1995,"Cyta,  Tata Communications,  Telecom Italia Sparkle,  BT,  Telekom Austria,  AT&T,  Orange,  Lebanese Ministry of Telecommunications,  SingTel,  Telefonica,  Syrian Telecommunications Establishment,  Vivacom,  Deutsche Telekom", ,255795.940824312
+340,UK-Channel Islands-8,uk-channel-islands-8,1704,237 km,January 1994,n.a., ,367055.803249947
+341,UK-Netherlands 14,uk-netherlands-14,1365,208 km,1996,"BT,  KPN,  Vodafone", ,333654.539814299
+342,Unity/EAC-Pacific,unityeac-pacific,1525,"9,620 km",March 2010,"Telstra,  Google,  Global Transit,  SingTel,  KDDI,  Airtel (Bharti)", ,11949809.873336
+343,WARF Submarine Cable,warf-submarine-cable,1517,680 km,March 2007,"Wataniya Telecom Maldives,  Focus Infocom,  Global Cloud Xchange", ,1156282.51040788
+344,West African Cable System (WACS),west-african-cable-system-wacs,1560,"14,530 km",May 2012,"Broadband Infraco,  Telkom South Africa,  Vodacom DRC,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone", ,16602747.7086072
+345,West African Cable System (WACS),west-african-cable-system-wacs,1560,"14,530 km",May 2012,"Broadband Infraco,  Telkom South Africa,  Vodacom DRC,  MTN Group,  Tata Communications,  Togo Telecom,  Telecom Namibia,  Office Congolais de Poste et Télécommunication,  Congo Telecom,  Portugal Telecom,  Angola Cables,  Cape Verde Telecom,  Vodafone", ,674733.482338791
+346,Cross Straits Cable Network,cross-straits-cable-network,1632,21 km,August 2012,"Chunghwa Telecom,  China Telecom,  China Unicom,  China Mobile", ,22066.0522291737
+347,Yellow,yellow,1081,"7,001 km",September 2000,CenturyLink,http://www.centurylink.com/wholesale/,7891325.48041858
+348,Baltic Sea Submarine Cable,baltic-sea-submarine-cable,1624,550 km,2000,CITIC Telecom International,https://www.citictel.com/,1742040.90265739
+349,Solas,solas,1205,232 km,April 1999,"eircom,  Vodafone", ,325070.177213851
+350,Pan European Crossing (UK-Ireland),pan-european-crossing-uk-ireland,1547,495 km,September 2000,CenturyLink, ,753046.590502926
+351,Ireland-France Cable-1 (IFC-1),ireland-france-cable-1-ifc-1,1889,490 km,Q4 2019,Ireland-France Subsea Cable Limited,http://www.ifc-1.com,828413.915518138
+352,Alaska United Southeast,alaska-united-southeast,1567,626 km,November 2008,GCI,http://www.alaskaunited.com,2442168.43661352
+353,America Movil Submarine Cable System-1 (AMX-1),america-movil-submarine-cable-system-1-amx-1,1686,"17,800 km",2014,América Móvil,http://www.americamovil.com,16235707.1294234
+354,Atlantis-2,atlantis-2,1045,"8,500 km",February 2000,"Embratel,  Deutsche Telekom,  Telecom Italia Sparkle,  Telecom Argentina,  Telxius,  Portugal Telecom,  Orange,  Telefónica Larga Distancia de Puerto Rico,  AT&T,  BICS,  KT,  SingTel,  Sprint,  Tata Communications,  Verizon,  BT,  Orange Polska", ,13666209.575422
+355,Avassa,avassa,1872,260 km,November 2016,"Comoros Telecom,  STOI", ,258637.54169498
+356,Hong Kong-Guam (HK-G),hong-kong-guam-hk-g,1902,"3,900 km",Q4 2019,"RTI Connectivity,  Google", ,3586198.60644134
+357,INDIGO-Central,indigo-central,1818,"4,850 km",Q1 2019,"Superloop,  SingTel,  Google,  Indosat Ooredoo,  Australia’s Academic and Research Network (AARNET)",http://www.subpartners.net/indigo,5334950.7289217
+358,Eastern Africa Submarine System (EASSy),eastern-africa-submarine-system-eassy,1246,"10,500 km",July 2010,"Botswana Fibre Networks,  Telkom South Africa,  Sudan Telecom Company,  Telma (Telecom Malagasy),  Tanzania Telecommunications Company Limited,  Zambia Telecom,  Mauritius Telecom,  Vodacom DRC,  MTN Group,  Comores Telecom,  Neotel,  BT,  Etisalat,  Sau",http://www.eassy.org,10623165.510012
+359,Dumai-Melaka Cable System,dumai-melaka-cable-system,1350,159 km,February 2005,"Telkom Indonesia,  Telekom Malaysia", ,144380.889694435
+360,Aden-Djibouti,aden-djibouti,1307,269 km,1994,"Djibouti Telecom,  TeleYemen,  Tata Communications,  Orange,  Telecom Italia Sparkle",http://www.teleyemen.com.ye,250845.92914286
+361,ARBR,arbr,1906,"2,700 km",2019,"Werthein Group,  Seaborn Group",http://www.seabornnetworks.com,2203891.13264783
+362,Chuuk-Pohnpei Cable,chuuk-pohnpei-cable,1908,"1,200 km",June 2018,Federated States of Micronesia Telecommunications Company,https://fsmcable.com/chuuk,807429.540718986
+363,Pacific Light Cable Network (PLCN),pacific-light-cable-network-plcn,1858,"12,817 km",Q2 2019,"Pacific Light Data Communication Co. Ltd.,  Google,  Facebook",http://pldcglobal.com/,17141611.4704426
+364,Colombia-Florida Subsea Fiber (CFX-1),colombia-florida-subsea-fiber-cfx-1,1554,"2,400 km",August 2008,C&W Networks,http://www.cwnetworks.com/,2415612.91775752
+365,IMEWE,imewe,1536,"12,091 km",December 2010,"Telecom Italia Sparkle,  Etisalat,  Tata Communications,  Pakistan Telecommunications Company Ltd.,  Orange,  Airtel (Bharti),  Saudi Telecom,  Ogero,  Telecom Egypt",http://imewecable.com,13451229.8472535
+366,SEACOM/Tata TGN-Eurasia,seacomtata-tgn-eurasia,1552,"15,000 km",July 2009,"Industrial Promotion Services,  Remgro Limited,  Herakles Telecom LLC,  Convergence Partners,  Shanduka,  Tata Communications",http://www.seacom.mu,13483234.9575451
+367,Middle East North Africa (MENA) Cable System/Gulf Bridge International,middle-east-north-africa-mena-cable-systemgulf-bridge-international,1558,"8,000 km",December 2014,"Airtel (Bharti),  Gulf Bridge International",http://www.mena-scs.com,8856507.96379699
+368,Saudi Arabia-Sudan-2 (SAS-2),saudi-arabia-sudan-2-sas-2,1675,330 km,July 2011,"Sudan Telecom Company,  Saudi Telecom", ,316687.393814257
+369,FLAG Europe-Asia (FEA),flag-europe-asia-fea,1027,"28,000 km",November 1997,Global Cloud Xchange,http://www.globalcloudxchange.com,29240092.4193647
+370,FLAG Europe-Asia (FEA),flag-europe-asia-fea,1027,"28,000 km",November 1997,Global Cloud Xchange,http://www.globalcloudxchange.com,822111.488622248
+371,EAC-C2C,eac-c2c,1592,"36,500 km",November 2002,Telstra,https://www.telstraglobal.com,36015719.7155649
+372,Asia Submarine-cable Express (ASE)/Cahaya Malaysia,asia-submarine-cable-express-asecahaya-malaysia,1679,"7,500 km",August 2012,"NTT,  PLDT,  Telekom Malaysia,  Starhub", ,7875677.45913086
+373,PLDT Domestic Fiber Optic Network (DFON),pldt-domestic-fiber-optic-network-dfon,1839,"11,100 km",1997,PLDT,http://www.pldt.com.ph,2054018.16822987
+374,APCN-2,apcn-2,1049,"19,000 km",December 2001,"SingTel,  Verizon,  KDDI,  Chunghwa Telecom,  AT&T,  BT,  Orange,  Softbank Telecom,  NTT,  Tata Communications,  Telekom Malaysia,  Starhub,  PLDT,  China Unicom,  KT,  SingTel Optus,  Telstra,  PCCW,  China Telecom,  LG Uplus,  HKBN Enterprise Solution",http://www.apcn2na.com,18593065.6601013
+375,Tata TGN-Intra Asia (TGN-IA),tata-tgn-intra-asia-tgn-ia,1534,"6,700 km",March 2009,Tata Communications,http://www.tatacommunications.com,6961418.14474383
+376,Asia Pacific Gateway (APG),asia-pacific-gateway-apg,1617,"10,400 km",November 2016,"NTT,  China Telecom,  China Unicom,  Chunghwa Telecom,  KT,  Starhub,  LG Uplus,  China Mobile,  Viettel Corporation,  Vietnam Telecom International,  Global Transit,  Facebook", ,11642852.787961
+377,SeaMeWe-4,seamewe-4,1035,"20,000 km",December 2005,"Bangladesh Submarine Cable Company Limited (BSCCL),  Orange,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  Telekom Malaysia,  Airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  CAT Telecom Public Company Limited,  Tunisia Teleco",http://www.seamewe4.net,19072036.8835222
+378,SeaMeWe-4,seamewe-4,1035,"20,000 km",December 2005,"Bangladesh Submarine Cable Company Limited (BSCCL),  Orange,  SingTel,  Telecom Italia Sparkle,  Tata Communications,  Telekom Malaysia,  Airtel (Bharti),  Sri Lanka Telecom,  Etisalat,  Saudi Telecom,  CAT Telecom Public Company Limited,  Tunisia Teleco",http://www.seamewe4.net,1791099.72658426
+379,Batam-Rengit Cable System (BRCS),batam-rengit-cable-system-brcs,1601,63 km,November 2007,PT Excelcomindo Pratama,http://www.xl.co.id,123053.716838905
+380,Southeast Asia Japan Cable (SJC),southeast-asia-japan-cable-sjc,1604,"8,900 km",June 2013,"Globe Telecom,  Google,  KDDI,  Telkom Indonesia,  SingTel,  China Telecom,  TOT,  China Mobile,  Chunghwa Telecom,  Brunei International Gateway", ,8425794.77948531
+381,Europe India Gateway (EIG),europe-india-gateway-eig,1580,"15,000 km",February 2011,"AT&T,  Airtel (Bharti),  Bharat Sanchar Nigam Ltd. (BSNL),  BT,  Djibouti Telecom,  du,  Gibtelecom,  Libya International Telecommunications Company,  MTN Group,  Omantel,  Portugal Telecom,  Saudi Telecom,  Telecom Egypt,  Telkom South Africa,  Verizon,",https://www.europeindiagateway.com,17178614.9232703
+382,Asia Africa Europe-1 (AAE-1),asia-africa-europe-1-aae-1,1739,"25,000 km",June 2017,"China Unicom,  Telecom Egypt,  Etisalat,  Omantel,  Djibouti Telecom,  OTEGLOBE,  Pakistan Telecommunications Company Ltd.,  PCCW,  Ooredoo,  Mobily,  Viettel Corporation,  TeleYemen,  Retelit,  Reliance Jio Infocom,  Global Transit,  Vietnam Telecom Int",http://www.aaeone.com,7794644.02849088
+383,Asia Africa Europe-1 (AAE-1),asia-africa-europe-1-aae-1,1739,"25,000 km",June 2017,"China Unicom,  Telecom Egypt,  Etisalat,  Omantel,  Djibouti Telecom,  OTEGLOBE,  Pakistan Telecommunications Company Ltd.,  PCCW,  Ooredoo,  Mobily,  Viettel Corporation,  TeleYemen,  Retelit,  Reliance Jio Infocom,  Global Transit,  Vietnam Telecom Int",http://www.aaeone.com,17440957.4501867
+384,Pishgaman Oman Iran (POI) Network,pishgaman-oman-iran-poi-network,1689,400 km,June 2012,Pishgaman Kavir,http://www.pishgaman.com,248417.071373086
+385,Pishgaman Oman Iran (POI) Network,pishgaman-oman-iran-poi-network,1689,400 km,June 2012,Pishgaman Kavir,http://www.pishgaman.com,383643.992211063
+386,OMRAN/EPEG Cable System,omranepeg-cable-system,1695,600 km,Q1 2013,"Omantel,  Vodafone",http://www.omantel.om,1036662.53888364
+387,Bay of Bengal Gateway (BBG),bay-of-bengal-gateway-bbg,1735,"8,100 km",Q1 2016,"Vodafone,  Telekom Malaysia,  Omantel,  Reliance Jio Infocom,  Dialog Axiata,  Etisalat,  AT&T,  China Telecom,  Telstra,  Gulf Bridge International",https://www.bayofbengalgateway.com,9134095.11922959
+388,JASUKA,jasuka,1844,"10,860 km",2006,Telkom Indonesia, ,4924792.56835191
+389,Indonesia Global Gateway (IGG) System,indonesia-global-gateway-igg-system,1895,"5,300 km",May 2018,"Telin,  Telkom Indonesia",http://www.telin.co.id,5195216.46003206
+390,Global Caribbean Network (GCN),global-caribbean-network-gcn,1829,n.a.,September 2006,"Leucadia National Corporation,  Loret Group",http://www.globalcaribbean.net,811146.487934172
+391,Americas-II,americas-ii,1148,"8,373 km",August 2000,"Embratel,  AT&T,  Verizon,  Sprint,  CANTV,  Tata Communications,  CNT,  Orange,  Portugal Telecom,  C&W Networks,  Telecom Italia Sparkle,  CenturyLink", ,8547848.75712462
+392,Jakarta-Bangka-Bintan-Batam-Singapore (B3JS),jakarta-bangka-bintan-batam-singapore-b3js,1833,"1,031 km",November 2012,Moratelindo,http://www.moratelindo.co.id,1002004.76393042
+393,SeaMeWe-5,seamewe-5,1559,"20,000 km",December 2016,"Telekom Malaysia,  Bangladesh Submarine Cable Company Limited (BSCCL),  China Mobile,  China Telecom,  Orange,  Myanmar Post and Telecommunication (MPT),  Saudi Telecom,  Sri Lanka Telecom,  Telkom Indonesia,  SingTel,  Telecom Italia Sparkle,  TeleYemen",http://www.seamewe5.com,5708852.15253262
+394,SeaMeWe-5,seamewe-5,1559,"20,000 km",December 2016,"Telekom Malaysia,  Bangladesh Submarine Cable Company Limited (BSCCL),  China Mobile,  China Telecom,  Orange,  Myanmar Post and Telecommunication (MPT),  Saudi Telecom,  Sri Lanka Telecom,  Telkom Indonesia,  SingTel,  Telecom Italia Sparkle,  TeleYemen",http://www.seamewe5.com,14948674.6820186
+395,Italy-Malta,italy-malta,1301,238 km,1995,"Telecom Italia Sparkle,  GO plc", ,372993.725714832
+396,Vodafone Malta-Sicily Cable System (VMSCS),vodafone-malta-sicily-cable-system-vmscs,1249,260 km,July 2004,Vodafone Malta,http://www.vodafone.com.mt,347781.038167633
+397,HANNIBAL System,hannibal-system,1621,178 km,October 2009,Tunisia Telecom,http://www.tunisietelecom.tn,208770.113039208
+398,Didon,didon,1772,170 km,May 2014,"Orange Tunisie,  Ooredoo Tunisie", ,203515.740493208
+399,MedNautilus Submarine System,mednautilus-submarine-system,1185,"7,000 km",November 2001,Telecom Italia Sparkle,http://mediterranean.tisparkle.com,7992451.54422133
+400,Celtic,celtic,1054,275 km,August 1994,"BT,  eircom,  Orange", ,395231.522197772
+401,ESAT-1,esat-1,1223,261 km,August 1999,Esat BT,http://www.esat.net,389349.399883585
+402,Channel Islands-9 Liberty Submarine Cable,channel-islands-9-liberty-submarine-cable,1784,n.a.,June 2008,JTGlobal, ,209488.204303174
+403,Circe South,circe-south,1323,115 km,February 1999,"VTLWavenetdf,  euNetworks", ,168177.756282778
+404,UK-Channel Islands-7,uk-channel-islands-7,1703,124 km,January 1994,"Sure,  BT", ,229994.136638905
+405,Pan European Crossing (UK-Belgium),pan-european-crossing-uk-belgium,1539,117 km,1999,CenturyLink, ,171405.287316036
+406,Concerto,concerto,1538,550 km,1999,Interoute, ,833851.355198072
+407,Farland North,farland-north,1819,150 km,1989,BT, ,244732.652445488
+408,Circe North,circe-north,1137,203 km,February 1999,"VTLWavenetdf,  euNetworks", ,312291.510629346
+409,E-LLAN,e-llan,1753,n.a.,2007,Manx Electricity Authority, ,171885.582279337
+410,Lanis-3,lanis-3,1834,122 km,1992,Vodafone, ,198289.935506619
+411,Scotland-Northern Ireland 2,scotland-northern-ireland-2,1614,82 km,1993,BT, ,135433.079511493
+412,Finland Estonia Connection (FEC),finland-estonia-connection-fec,1242,250 km,January 2000,Elisa Corporation,http://www.elisa.com,343767.936407476
+413,Finland-Estonia 3 (EESF-3),finland-estonia-3-eesf-3,1268,104 km,1994,"Telia Carrier,  Elion", ,186871.087569929
+414,BCS East,bcs-east,1611,97.8 km,1995,Telia Carrier, ,119734.465672572
+415,Batam Dumai Melaka (BDM) Cable System,batam-dumai-melaka-bdm-cable-system,1648,353 km,November 2009,"Moratelindo,  Telekom Malaysia",http://www.moratelindo.co.id,408322.241565047
+416,PGASCOM,pgascom,1680,264 km,2010,PGASCOM,http://www.pgascom.co.id,293230.031234337
+417,Boracay-Palawan Submarine Cable System,boracay-palawan-submarine-cable-system,1781,332 km,June 2013,Globe Telecom, ,317123.379536441
+418,Saudi Arabia-Sudan-1 (SAS-1),saudi-arabia-sudan-1-sas-1,1247,333 km,April 2003,"Sudan Telecom Company,  Saudi Telecom,  The Arab Investment Company", ,313304.224315841
+419,Africa-1,africa-1,1878,n.a.,2020,"PCCW,  Saudi Telecom,  MTN Group,  Telecom Egypt,  Telkom South Africa,  Etisalat,  Mauritius Telecom,  Telma (Telecom Malagasy),  Pakistan Telecommunications Company Ltd.,  Zain Sudan,  Sudatel,  China Telecom,  BICS,  Al Asab Trading Company", ,15154477.7735332
+420,FALCON,falcon,1346,"10,300 km",September 2006,Global Cloud Xchange,http://www.globalcloudxchange.com,11561666.6751524
+421,SeaMeWe-3,seamewe-3,1031,"39,000 km",September 1999,"Orange,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  OTEGLOBE,  AT&T,  BICS,  CAT Telecom Public Company Limited,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Br",http://www.smw3.com,12355747.9017879
+422,SeaMeWe-3,seamewe-3,1031,"39,000 km",September 1999,"Orange,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  OTEGLOBE,  AT&T,  BICS,  CAT Telecom Public Company Limited,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Br",http://www.smw3.com,19909534.1269743
+423,SeaMeWe-3,seamewe-3,1031,"39,000 km",September 1999,"Orange,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  OTEGLOBE,  AT&T,  BICS,  CAT Telecom Public Company Limited,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Br",http://www.smw3.com,9014868.44708902
+424,SeaMeWe-3,seamewe-3,1031,"39,000 km",September 1999,"Orange,  BT,  KDDI,  SingTel,  Telecom Italia Sparkle,  Telekom Malaysia,  OTEGLOBE,  AT&T,  BICS,  CAT Telecom Public Company Limited,  China Telecom,  Deutsche Telekom,  Etisalat,  Telecom Egypt,  CTM,  PT Indonesia Satellite Corp.,  Jabatan Telecom Br",http://www.smw3.com,827763.480523793
